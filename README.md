@@ -15,4 +15,5 @@ Tutorial
 7. Jika sudah selesai tinggal klik run, yang hover berwarna biru
 ![image](https://user-images.githubusercontent.com/74178644/231775040-d813f73e-b21a-4d22-8be2-b2d692f1c8a8.png)
 8. Nanti Hasil program akan seperti ini pada console tunggu sampai 10000 maka program telah selesai dijalankan
-![image](https://user-images.githubusercontent.com/74178644/231775819-50b06051-09fe-4145-8dc7-397896ea9382.png)
+![image](https://user-images.githubusercontent.com/74178644/231778406-819182ac-eef6-4637-89d7-948734147535.png)
+
